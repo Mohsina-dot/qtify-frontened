@@ -7,11 +7,6 @@ function App() {
     <div>
       <Navbar />
       <h1>Welcome to QTify</h1>
-      <SongCard
-        image="https://via.placeholder.com/180"
-        title="Sample Song"
-        subtitle="Artist Name"
-      />
     </div>
   );
 }
